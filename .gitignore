@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+.streamlit/
+
+# IDE files (optional)
+.vscode/
+.idea/
